@@ -2,7 +2,7 @@ require 'fileutils'
 require 'listen'
 
 # Define your downloads directory (modify this path as needed)
-DOWNLOADS_DIR = "C:/Users/Joshua/Downloads"
+DOWNLOADS_DIR = "C:/Users/jaywh/Downloads"
 
 # Define destination folders based on file extensions.
 SORTED_DIRS = {
